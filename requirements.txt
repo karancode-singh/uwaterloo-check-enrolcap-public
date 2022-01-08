@@ -1,0 +1,4 @@
+requests
+telethon
+bs4
+lxml
